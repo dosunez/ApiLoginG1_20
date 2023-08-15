@@ -1,0 +1,7 @@
+{
+	"host" : "20.51.252.14",
+	"port" : 5432,
+	"user" : "G1_20",
+	"password" : "fVl9pd2E",
+	"database" : "G1_20_login"
+}
